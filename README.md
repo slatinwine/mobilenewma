@@ -36,3 +36,7 @@ npm run build && npm start   # tsc 编译后运行 dist
   - `src/protocol/` — 帧协议类型与编解码
   - `src/services/` — 网关服务器、认证、配置、数据库、AI 后端、会话与调度等服务
 - `mobilenewma/` — 同一套代码的历史嵌套副本
+
+## 关注公众号
+
+![公众号二维码](qrcode.jpg)
